@@ -12,11 +12,7 @@ body{
 	margin-top:70px;
 }
 
-input{
-	border:1px solid #ccc;
-	border-radius:5px;
-	padding:10px;
-}
+
 
 .login{
 	background-color:#1877f2;
