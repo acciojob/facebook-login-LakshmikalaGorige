@@ -1,45 +1,4 @@
 /*  your css code here. If applicable */
-body{
-	background-color:#f6f6f6;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-	height:100vh;
-}
-.left{
-	display:inline-block;
-	width:400px;
-	margin-top:70px;
-}
-
-
-
-.login{
-	background-color:#1877f2;
-	border-radius:5px;
-	padding:10px 20px;
-}
-a{
-	text-decoration:none;
-	color:#1877f2;
-}
-.signup{
-	background-color:#42b72a;
-	border-radius:5px;
-	padding:10px 20px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
